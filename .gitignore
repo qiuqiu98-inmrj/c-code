@@ -361,3 +361,8 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+# C/C++ build artifacts (merged from main)
+*.o
+*.out
+*.exe
+*.idb
