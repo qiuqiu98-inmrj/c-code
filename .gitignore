@@ -1,0 +1,14 @@
+﻿# Build artifacts
+*.o
+*.obj
+*.exe
+*.out
+*.ilk
+*.pdb
+*.idb
+
+# Visual Studio
+.vs/
+Debug/
+Release/
+x64/
